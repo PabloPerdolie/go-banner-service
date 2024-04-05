@@ -1,5 +1,6 @@
 package app
 
-func Run() {
+func Run() error {
 
+	return nil
 }
